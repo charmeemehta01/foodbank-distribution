@@ -2,7 +2,7 @@
 Hackathon Project Submission for Code to Give Alpharetta 2023! This platform is developed in hopes to aid the Atlanta Community Food Bank in distributing culturally-relevant food equitably to their partners. 
 
 # Team: A Byte of Food
-Developed by: Emily Xia, Hugo Munoz Reinoso, Anusha Guruprasad, Amina Isayeva, and Shubham Mishra. Thank you to our mentors Radha Adulla and Ambar Anant!
+Developed by: Emily Xia, Hugo Munoz Reinoso, Anusha Guruprasad, Amina Isayeva, Charmee Mehta, and Shubham Mishra. Thank you to our mentors Radha Adulla and Ambar Anant!
 
 # Working Prototypes
 While we were unable to finish developing all the new features, we did create two interactive prototypes that we demoed for the Partner and User Portal. Here is how you can access them:
